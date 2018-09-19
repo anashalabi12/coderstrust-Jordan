@@ -29,7 +29,7 @@ color: gold}
 .flag{color: black}
 .lan{color: red}
 .reg{color: green}
-.logo { width: 200px;height: 200px;
-position: absolute;top: 450px; left: 50px;}
-.welcome { position: absolute;top: 680px; color: gold; font-family:URW Chancery L, }
+.logo { width: 15%;height: 35%;
+position: absolute;top: 70%; left: 5%;}
+.welcome { ; color: gold; font-family:URW Chancery L; }
 .text{background-color: whitesmoke}
