@@ -1,0 +1,35 @@
+.cover {width: 100%;
+height: 35%;}
+.img1{height: 200px;
+width: 200px;
+border-bottom-right-radius: 50%}
+h1 {font-style: italic;
+color: royalblue}
+.img2{height: 250px;
+width: 450px;}
+.img3{width: 600px;
+height: 300px;}
+.img4{width: 500px;
+height: 300px;}
+.petra {color: brown}
+.rum{color: saddlebrown;
+font-style: oblique}
+.sea {color: mediumblue;
+font-style: italic}
+.mansaf{color: tan}
+.info {
+color: slategray;
+position: relative;top: 20px}
+.cp{font-size: 15px;
+color: silver;
+font-style: initial;
+position: relative;top: 50px}
+.end{font-style: italic;
+color: gold}
+.flag{color: black}
+.lan{color: red}
+.reg{color: green}
+.logo { width: 200px;height: 200px;
+position: absolute;top: 450px; left: 50px;}
+.welcome { position: absolute;top: 680px; color: gold; font-family:URW Chancery L, }
+.text{background-color: whitesmoke}
